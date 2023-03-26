@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{CE393D87-F00E-424B-94ED-4B4447FDFB97}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tests/CodeFlix.Catalog.UnitTests/Application/CreateCategory/CreateCategoryTest.cs">
+    <Files>
+      <File FileName="tests/CodeFlix.Catalog.UnitTests/Application/CreateCategory/CreateCategoryTest.cs" Line="5" Column="11" />
+      <File FileName="src/CodeFlix.Catalog.Domain/Repository/ICategoryRepository.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodeFlix.Catalog" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="CodeFlix.Catalog.Application" expanded="True" />
+              <Node name="CodeFlix.Catalog.Domain" expanded="True">
+                <Node name="Repository" expanded="True" />
+                <Node name="SeedWork" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="tests" expanded="True">
+              <Node name="CodeFlix.Catalog.UnitTests" expanded="True">
+                <Node name="Application" expanded="True">
+                  <Node name="CreateCategory" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CodeFlix.Catalog" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.src.CodeFlix.Catalog.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.tests.CodeFlix.Catalog.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

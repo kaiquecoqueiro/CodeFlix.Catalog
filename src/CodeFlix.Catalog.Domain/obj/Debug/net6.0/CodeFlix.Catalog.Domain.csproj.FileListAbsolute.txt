@@ -1,0 +1,12 @@
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/bin/Debug/net6.0/CodeFlix.Catalog.Domain.deps.json
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/bin/Debug/net6.0/CodeFlix.Catalog.Domain.dll
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/bin/Debug/net6.0/CodeFlix.Catalog.Domain.pdb
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/obj/Debug/net6.0/CodeFlix.Catalog.Domain.csproj.AssemblyReference.cache
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/obj/Debug/net6.0/CodeFlix.Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/obj/Debug/net6.0/CodeFlix.Catalog.Domain.AssemblyInfoInputs.cache
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/obj/Debug/net6.0/CodeFlix.Catalog.Domain.AssemblyInfo.cs
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/obj/Debug/net6.0/CodeFlix.Catalog.Domain.csproj.CoreCompileInputs.cache
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/obj/Debug/net6.0/CodeFlix.Catalog.Domain.dll
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/obj/Debug/net6.0/refint/CodeFlix.Catalog.Domain.dll
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/obj/Debug/net6.0/CodeFlix.Catalog.Domain.pdb
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/obj/Debug/net6.0/ref/CodeFlix.Catalog.Domain.dll

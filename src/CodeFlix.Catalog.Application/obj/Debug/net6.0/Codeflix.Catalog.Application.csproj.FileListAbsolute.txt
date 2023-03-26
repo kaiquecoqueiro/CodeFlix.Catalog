@@ -1,0 +1,15 @@
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/bin/Debug/net6.0/Codeflix.Catalog.Application.deps.json
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/bin/Debug/net6.0/Codeflix.Catalog.Application.dll
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/bin/Debug/net6.0/Codeflix.Catalog.Application.pdb
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/obj/Debug/net6.0/Codeflix.Catalog.Application.csproj.AssemblyReference.cache
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/obj/Debug/net6.0/Codeflix.Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/obj/Debug/net6.0/Codeflix.Catalog.Application.AssemblyInfoInputs.cache
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/obj/Debug/net6.0/Codeflix.Catalog.Application.AssemblyInfo.cs
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/obj/Debug/net6.0/Codeflix.Catalog.Application.csproj.CoreCompileInputs.cache
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/obj/Debug/net6.0/Codeflix.Catalog.Application.dll
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/obj/Debug/net6.0/refint/Codeflix.Catalog.Application.dll
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/obj/Debug/net6.0/Codeflix.Catalog.Application.pdb
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/obj/Debug/net6.0/ref/Codeflix.Catalog.Application.dll
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/bin/Debug/net6.0/Codeflix.Catalog.Domain.dll
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/bin/Debug/net6.0/Codeflix.Catalog.Domain.pdb
+/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/obj/Debug/net6.0/Codeflix.Catalog.Application.csproj.CopyComplete
