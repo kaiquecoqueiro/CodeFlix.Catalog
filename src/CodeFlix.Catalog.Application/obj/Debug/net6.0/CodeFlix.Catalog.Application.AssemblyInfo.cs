@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CodeFlix.Catalog.Application")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Codeflix.Catalog.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CodeFlix.Catalog.Application")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CodeFlix.Catalog.Application")]
+[assembly: System.Reflection.AssemblyProductAttribute("Codeflix.Catalog.Application")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Codeflix.Catalog.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

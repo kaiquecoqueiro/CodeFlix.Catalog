@@ -23,11 +23,7 @@ namespace CodeFlix.Catalog.Application.UseCases.Category.CreateCategory
 
             await _unitOfWork.Commit(cancellationToken);
 
-            return new CreateCategoryOutput(category.Id,
-                                            category.Name,
-                                            category.CreatedAt,
-                                            category.Description,
-                                            category.IsActive);
+            return CreateCategoryOutput.FromCategory(category);
         }
     }
 }

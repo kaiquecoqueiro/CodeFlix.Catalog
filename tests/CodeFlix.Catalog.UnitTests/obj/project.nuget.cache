@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KOqijp7jDHaunh0j/0mF3Us4eOAqz0mefQTIJOe90/BuWxy5K1uG5LGsGd09EMqF3SpQrsaKgh8t+SN2F+KS0w==",
+  "dgSpecHash": "2+OuKU2GlqLjmFiCGEkSxGZF/p8r3MrhE7MXE8Ms91CesHhNo9ZJBWDjKyEsPiNPK/hKKK9BPvyzag7uRxDYnw==",
   "success": true,
   "projectFilePath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/tests/CodeFlix.Catalog.UnitTests/CodeFlix.Catalog.UnitTests.csproj",
   "expectedPackageFiles": [
@@ -8,8 +8,12 @@
     "/Users/kaiquecoqueiro/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/kaiquecoqueiro/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/kaiquecoqueiro/.nuget/packages/fluentassertions/6.10.0/fluentassertions.6.10.0.nupkg.sha512",
+    "/Users/kaiquecoqueiro/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/kaiquecoqueiro/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/Users/kaiquecoqueiro/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/kaiquecoqueiro/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
+    "/Users/kaiquecoqueiro/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "/Users/kaiquecoqueiro/.nuget/packages/microsoft.net.test.sdk/17.1.0/microsoft.net.test.sdk.17.1.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",

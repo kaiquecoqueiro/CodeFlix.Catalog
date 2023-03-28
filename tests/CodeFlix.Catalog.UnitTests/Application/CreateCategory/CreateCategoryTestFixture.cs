@@ -1,6 +1,5 @@
 using CodeFlix.Catalog.Application.Interfaces;
 using CodeFlix.Catalog.Application.UseCases.Category.CreateCategory;
-using CodeFlix.Catalog.Domain.Entity;
 using CodeFlix.Catalog.Domain.Repository;
 using CodeFlix.Catalog.UnitTests.Common;
 using Moq;
@@ -36,6 +35,46 @@ public class CreateCategoryTestFixture : BaseFixture
 
     public CreateCategoryInput GetInput()
         => new(GetValidCategoryName(), GetValidCategorDescription(), GetRandomBoolean());
+
+    public CreateCategoryInput GetInvalidInputShortName()
+    {
+        var inputInvalidShortName = GetInput();
+        inputInvalidShortName.Name = inputInvalidShortName.Name[..2];
+        return inputInvalidShortName;
+    }
+
+    public CreateCategoryInput GetInvalidInputTooLongName()
+    {
+        string tooLongName = Faker.Commerce.ProductName();
+
+        while (tooLongName.Length <= 255)
+            tooLongName = $"{tooLongName} {Faker.Commerce.ProductName}";
+
+        var inputInvalidLongName = GetInput();
+        inputInvalidLongName.Name = tooLongName;
+
+        return inputInvalidLongName;
+    }
+
+    public CreateCategoryInput GetInvalidInputTooLongDescription()
+    {
+        string tooLongDescription = Faker.Commerce.ProductDescription();
+
+        while (tooLongDescription.Length <= 10000)
+            tooLongDescription = $"{tooLongDescription} {Faker.Commerce.ProductDescription()}";
+
+        var inputInvalidLongDescription = GetInput();
+        inputInvalidLongDescription.Description = tooLongDescription;
+
+        return inputInvalidLongDescription;
+    }
+
+    public CreateCategoryInput GetInvalidInputNullDescription()
+    {
+        var invalidNullDescription = GetInput();
+        invalidNullDescription.Description = null;
+        return invalidNullDescription;
+    }
 
     public Mock<ICategoryRepository> GetRepositoryMock() => new();
     public Mock<IUnitOfWork> GetUnitOfWorkMock() => new();
