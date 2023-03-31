@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Codeflix.Catalog.Domain/1.0.0": {
+      "CodeFlix.Catalog.Domain/1.0.0": {
         "runtime": {
-          "Codeflix.Catalog.Domain.dll": {}
+          "CodeFlix.Catalog.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Codeflix.Catalog.Domain/1.0.0": {
+    "CodeFlix.Catalog.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

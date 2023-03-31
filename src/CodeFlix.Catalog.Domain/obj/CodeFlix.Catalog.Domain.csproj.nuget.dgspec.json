@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj": {}
+    "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj": {}
   },
   "projects": {
-    "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj": {
+    "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj",
-        "projectName": "CodeFlix.Catalog.Domain",
-        "projectPath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj",
+        "projectUniqueName": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj",
+        "projectName": "Codeflix.Catalog.Domain",
+        "projectPath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj",
         "packagesPath": "/Users/kaiquecoqueiro/.nuget/packages/",
         "outputPath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/obj/",
         "projectStyle": "PackageReference",

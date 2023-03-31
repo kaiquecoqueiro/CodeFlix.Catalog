@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fzjwcrZBescV2/+q3TzXNDm5fFnZEpbzq+1cZiEQ3j6wP0jlxco9SI/bTVe6CtcqTp2jEdMJNNcYWLiY2uqeIQ==",
+  "dgSpecHash": "a82DNOX9X7qMXsR4wOmvMPnCaB012buTw7z0BF6MJNBVqrhc/yIyhdDFrRUQPChyBjWOvpfaronaXbfk53tOAw==",
   "success": true,
-  "projectFilePath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj",
+  "projectFilePath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

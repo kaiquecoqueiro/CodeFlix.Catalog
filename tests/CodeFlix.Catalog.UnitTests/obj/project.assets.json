@@ -1980,29 +1980,29 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "CodeFlix.Catalog.Application/1.0.0": {
+      "Codeflix.Catalog.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "CodeFlix.Catalog.Domain": "1.0.0",
+          "Codeflix.Catalog.Domain": "1.0.0",
           "FluentValidation": "11.5.1",
           "MediatR": "12.0.1"
         },
         "compile": {
-          "bin/placeholder/CodeFlix.Catalog.Application.dll": {}
+          "bin/placeholder/Codeflix.Catalog.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CodeFlix.Catalog.Application.dll": {}
+          "bin/placeholder/Codeflix.Catalog.Application.dll": {}
         }
       },
-      "CodeFlix.Catalog.Domain/1.0.0": {
+      "Codeflix.Catalog.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/CodeFlix.Catalog.Domain.dll": {}
+          "bin/placeholder/Codeflix.Catalog.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CodeFlix.Catalog.Domain.dll": {}
+          "bin/placeholder/Codeflix.Catalog.Domain.dll": {}
         }
       }
     }
@@ -6490,22 +6490,22 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "CodeFlix.Catalog.Application/1.0.0": {
+    "Codeflix.Catalog.Application/1.0.0": {
       "type": "project",
-      "path": "../../src/CodeFlix.Catalog.Application/CodeFlix.Catalog.Application.csproj",
-      "msbuildProject": "../../src/CodeFlix.Catalog.Application/CodeFlix.Catalog.Application.csproj"
+      "path": "../../src/CodeFlix.Catalog.Application/Codeflix.Catalog.Application.csproj",
+      "msbuildProject": "../../src/CodeFlix.Catalog.Application/Codeflix.Catalog.Application.csproj"
     },
-    "CodeFlix.Catalog.Domain/1.0.0": {
+    "Codeflix.Catalog.Domain/1.0.0": {
       "type": "project",
-      "path": "../../src/CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj",
-      "msbuildProject": "../../src/CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj"
+      "path": "../../src/CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj",
+      "msbuildProject": "../../src/CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Bogus >= 34.0.2",
-      "CodeFlix.Catalog.Application >= 1.0.0",
-      "CodeFlix.Catalog.Domain >= 1.0.0",
+      "Codeflix.Catalog.Application >= 1.0.0",
+      "Codeflix.Catalog.Domain >= 1.0.0",
       "FluentAssertions >= 6.10.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "Moq >= 4.18.4",
@@ -6543,11 +6543,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/CodeFlix.Catalog.Application.csproj": {
-              "projectPath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/CodeFlix.Catalog.Application.csproj"
+            "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/Codeflix.Catalog.Application.csproj": {
+              "projectPath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/Codeflix.Catalog.Application.csproj"
             },
-            "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj": {
-              "projectPath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj"
+            "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj": {
+              "projectPath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj"
             }
           }
         }

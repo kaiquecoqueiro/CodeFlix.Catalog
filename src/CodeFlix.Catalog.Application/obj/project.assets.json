@@ -61,14 +61,14 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "CodeFlix.Catalog.Domain/1.0.0": {
+      "Codeflix.Catalog.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/CodeFlix.Catalog.Domain.dll": {}
+          "bin/placeholder/Codeflix.Catalog.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CodeFlix.Catalog.Domain.dll": {}
+          "bin/placeholder/Codeflix.Catalog.Domain.dll": {}
         }
       }
     }
@@ -152,15 +152,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "CodeFlix.Catalog.Domain/1.0.0": {
+    "Codeflix.Catalog.Domain/1.0.0": {
       "type": "project",
-      "path": "../CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj",
-      "msbuildProject": "../CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj"
+      "path": "../CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj",
+      "msbuildProject": "../CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "CodeFlix.Catalog.Domain >= 1.0.0",
+      "Codeflix.Catalog.Domain >= 1.0.0",
       "FluentValidation >= 11.5.1",
       "MediatR >= 12.0.1"
     ]
@@ -172,9 +172,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/CodeFlix.Catalog.Application.csproj",
-      "projectName": "CodeFlix.Catalog.Application",
-      "projectPath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/CodeFlix.Catalog.Application.csproj",
+      "projectUniqueName": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/Codeflix.Catalog.Application.csproj",
+      "projectName": "Codeflix.Catalog.Application",
+      "projectPath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/Codeflix.Catalog.Application.csproj",
       "packagesPath": "/Users/kaiquecoqueiro/.nuget/packages/",
       "outputPath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Application/obj/",
       "projectStyle": "PackageReference",
@@ -194,8 +194,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj": {
-              "projectPath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/CodeFlix.Catalog.Domain.csproj"
+            "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj": {
+              "projectPath": "/Users/kaiquecoqueiro/Documents/sandbox/CodeFlix.Catalog/src/CodeFlix.Catalog.Domain/Codeflix.Catalog.Domain.csproj"
             }
           }
         }
